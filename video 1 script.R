@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #instrall package
 install.packages('caret', dependencies = TRUE)
+=======
+install.packages("caret")
+>>>>>>> 320c9017496ce2b6e1c2069778d78d253461399e
 install.packages("dslabs")
 
 library(caret)
